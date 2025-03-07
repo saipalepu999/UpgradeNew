@@ -18,6 +18,7 @@
             "tenant": "default",
             "usePublicURLFromServer": true,
             "port": 4049
+//12233
         }
     ]
 }
